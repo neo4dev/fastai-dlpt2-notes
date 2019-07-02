@@ -1,7 +1,7 @@
 # How to train your model
 
 ## Revisit questions from the last week
-- Research about the division from sqrt(5) in nn.comv2d
+- Research about the division from sqrt(5) in nn.conv2d
 - Def get data
 - def normalize
 - torch.nn.modules
